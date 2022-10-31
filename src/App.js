@@ -1,6 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 
+function barraLateral(){
+  return(
+    <h1>Hola</h1>
+  )
+}
+
+
 function App() {
   return (
     <div className="App">
